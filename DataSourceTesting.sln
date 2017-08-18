@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSourceTesting", "DataSourceTesting\DataSourceTesting.csproj", "{09D41634-2BEC-4A50-A239-43F0F173B76A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{5D117494-66E4-4567-AA9F-95769AA9175C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D41634-2BEC-4A50-A239-43F0F173B76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D41634-2BEC-4A50-A239-43F0F173B76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D41634-2BEC-4A50-A239-43F0F173B76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D41634-2BEC-4A50-A239-43F0F173B76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D117494-66E4-4567-AA9F-95769AA9175C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D117494-66E4-4567-AA9F-95769AA9175C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D117494-66E4-4567-AA9F-95769AA9175C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D117494-66E4-4567-AA9F-95769AA9175C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
